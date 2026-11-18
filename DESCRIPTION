@@ -7,14 +7,17 @@ Authors@R:
            role = c("aut", "cre"),
            email = "hongyuli@hsph.harvard.edu",
            comment = c(ORCID = "0000-0002-1825-0097"))
-Description: provide text on what your project emphasizes and 
-	accomplishes in three or more complete sentences.
+Description: This project explores patterns in public health data using
+    statistical methods covered in BST260. The first analysis examines
+    the relationship between BMI and blood pressure using NHANES data.
+    The second analysis looks at patterns in reported waterborne illness
+    outbreaks in the United States.
 Depends: R (>= 4.5.0)
 Suggests: knitr, testthat, rmarkdown, pkgdown
 License: Artistic-2.0
 VignetteBuilder: quarto
 Encoding: UTF-8
-URL: https://github.com/youreponame
+URL: https://github.com/hongyuil0421/finalproject
 BugReports: https://github.com/youreponame/issues
 Config/roxygen2/version: 8.1.1
 Roxygen: list(markdown=TRUE)
